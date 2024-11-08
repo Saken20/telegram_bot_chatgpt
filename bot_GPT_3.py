@@ -6,8 +6,8 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher import FSMContext
 from aiogram.types import ParseMode
 
-API_TOKEN = '6221935907:AAHwaaHg33grUksbKIqLp7S3GATeLqQeAQE'
-OPENAI_API_KEY = "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"
+API_TOKEN = 'TOKEN_API'
+OPENAI_API_KEY = "TOKEN_API_GPT"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
